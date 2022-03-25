@@ -17,7 +17,7 @@
   "author": "GitHub",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^5.0.5",
+    "electron": "^13.6.6",
     "puppeteer": "^1.18.1"
   },
   "build": {
